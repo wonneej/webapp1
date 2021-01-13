@@ -6,5 +6,5 @@ public class TextController {
 	
 	//constructor
 	
-	//method
+	//metho d
 }
